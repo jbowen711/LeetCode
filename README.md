@@ -24,7 +24,6 @@ topics and minimizing time to solve.
 🧠 *Focus Areas:* Arrays, Strings, Hash Map basics
 
 </details>
-
 ---
 
 <details>
