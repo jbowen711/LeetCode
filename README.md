@@ -45,7 +45,7 @@ topics and minimizing time to solve.
 <details>
 <summary>🔥 Stage 3 </summary> 
 
-**INterview Prep**
+**Interview Prep**
 
 - [ ] Solve 75 Easy problems total
 - [ ] Solve 30 Medium problems total
@@ -75,7 +75,7 @@ topics and minimizing time to solve.
 
 <details>
 <summary> 💪 Final Stage: Mastery Unlocked </summary>
-**You kind know what is happening now**
+**You sort of know what is happening now**
 
 - [ ] 200+ problems solved across all difficulties
 - [ ] You're solving new Mediums in 20 minutes
