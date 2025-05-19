@@ -1,0 +1,6 @@
+1. Make a hashmap
+2. Loop over list
+3. Get number from index
+4. Check if that number is in hashMap - if so True
+5. Otherwise add number and index to hashMap
+6. Loop gets through? Return false

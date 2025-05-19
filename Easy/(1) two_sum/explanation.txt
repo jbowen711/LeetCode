@@ -1,0 +1,6 @@
+1. Create a hashTable
+2. Loop over list of numbers
+3. Get each number
+4. Get each numbers complement
+5. If the complement exists in the hashmap return the numbers index and the complements index (using Hashmap)\
+6. Otherwise add the number and the index to hashmap
