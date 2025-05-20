@@ -1,0 +1,4 @@
+1. Create dictionary
+2. Add frequency of nums
+3. Get max frequency max(majority.values())
+4. For loop key, value if value == max frequency return key

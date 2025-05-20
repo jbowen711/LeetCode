@@ -1,0 +1,7 @@
+1. Create dictionary
+2. Check lengths of stings if uneqaul return false
+3. Add frequency of s into dictionary
+4. For each letter in t check to see if its in s
+5. Decrease dictionary based on t letter
+6. If goes below 0 for any letter there are extra of that letter in t than s
+7. Return True for anagram!
