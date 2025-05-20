@@ -1,0 +1,7 @@
+This solution find the products to the left and right of an index and updates the output
+
+1. get length from nums
+2. set output list to length size
+3. loop starting from left *= product_to_left from nums
+4. loop starting from right *= product_to_right from nums
+5. return output
