@@ -1,0 +1,28 @@
+3sum is a two pointer problem with a catch.
+
+We are looking combinations of 3 numbers instead of 2 that all add to 0. In order to solve this we need a 0(n^2) solution.
+We need to loop through an i and then loop the array again using l and r to find the other values.
+
+
+Steps:
+To make this easier we should first sort the numbers input.
+We want to create a result list to append lists of 0 combinations.
+
+Lets loop through the range of nums
+Lets check duplicates by comparing prev i value
+We can also optimize by checking to see if the values at i > 0 if it is we already know we are breaking
+since r and l will also be greater than 0
+
+
+Now set pointers
+l = i + 1 
+r = n - 1
+
+loop
+find sum
+if we find that it equals 0 append
+now check duplicates for the pointers by using a loop to compare prev values change pointers accordingly
+finally if our sum is not 0 move r and l accordingly
+
+
+return res
