@@ -1,0 +1,10 @@
+This solution is a typical two pointer problem with a slight trick.
+
+We are trying to find the maximum area in the list.
+To do this we need to keep track of current max and keep two pointers to test new areas.
+Inside our loop we will take the minimum heigh of the two pointers to find our y and we will find
+distance between our two pointers as our x values.
+Multiplied together this gives us our area between two points.
+Then we need to move the pointers. To do this I simply move the left if the height from the left is less
+or equal to the right. Otherwise we move the right pointer back one.
+Then return the current max we found from looping.

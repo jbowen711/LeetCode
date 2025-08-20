@@ -1,0 +1,10 @@
+This is a very straight forward medium problem. We are asked to analyze if there are any anagrams
+in a list and group them in the return.
+
+For this approach I want you to think about a map that can add a key on the fly
+Pythons defaultdict(list) creates a dictionary that allows for each key to be added with a list attached
+
+1. Create defaultdict(list) this our full dictionary
+2. iterate over the list of strings given by word
+3. For each word we are sorting it and using it as a key so that if multiple words get sorted the same (boom anagram)
+4. Then we need to return a list of the values this will make a list of all of the values attached to each key.
